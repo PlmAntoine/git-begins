@@ -1,0 +1,5 @@
+git clone https://github.com/PlmAntoine/git-begins.git
+git add .
+git commit -m "Test commands-git"
+git push
+
